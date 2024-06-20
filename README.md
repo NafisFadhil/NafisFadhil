@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Muhammad Nafis Fadhil</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=300&color=B30001&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Muhammad+Nafis+Fadhil;FrontEnd+Developer;BackEnd+Developer;Web+Developer)](https://git.io/typing-svg)
 
 ###
 
