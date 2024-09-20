@@ -12,7 +12,13 @@
 
 ###
 
-<p align="left">Welcome to my profile! I am a high school student at SMK Muhammadiyah Bligo with a deep passion and interest in web development. Through various website application projects I have undertaken, I have gained a strong grasp of the web development landscape and am eager to continue learning and growing in this field.<br><br>I aspire to become a dedicated professional web developer, committed to crafting innovative digital solutions. I believe that web technology holds immense potential to transform the way we interact and work, and I am dedicated to contributing to the advancement of this field.<br><br>I am keen on establishing connections with like-minded professionals and peers. If you're interested in discussing, collaborating, or sharing experiences, please feel free to get in touch with me. Thank you for visiting my profile!</p>
+<p align="left">Hello and welcome to my profile! I am Muhammad Nafis Fadhil, a graduate of SMK Muhammadiyah Bligo with a major in Computer and Network Engineering. Currently, I am pursuing my Informatics Engineering degree at Universitas Dian Nuswantoro (UDINUS), driven by a deep passion for web development.
+
+Throughout my journey, I've gained hands-on experience in various web application projects, which has strengthened my understanding of the web development ecosystem. I aspire to become a dedicated and innovative professional web developer, committed to creating impactful digital solutions.
+
+I believe that web technology has the power to transform the way we live, work, and interact. My goal is to continuously learn, grow, and contribute to the advancement of the field. I'm excited to connect with professionals and peers who share the same enthusiasm for web development, technology, and innovation.
+
+Feel free to reach out if you're interested in collaborating, discussing ideas, or exchanging knowledge. Thank you for visiting my profile!</p>
 
 ###
 
