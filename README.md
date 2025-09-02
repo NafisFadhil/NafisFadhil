@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="./1715618084321.jpeg"  />
+  <img height="200" src="./tokaiteio_banner.jpeg"  />
 </div>
 
 ###
